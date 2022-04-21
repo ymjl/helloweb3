@@ -580,6 +580,7 @@ section {
   color: var(--color-white);
   background: var(--color-primary);
   font-family: var(--font-secondary);
+  margin-top: 20px;
 }
 .hero-animated .btn-get-started:hover {
   background: rgba(var(--color-primary-rgb), 0.8);
