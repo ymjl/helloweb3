@@ -10,16 +10,21 @@
   align-items: center;
   justify-content: center;
 }
+
 .hvGKmG {
   min-height: 100vh;
   position: relative;
 }
+
 .gUHjHS {
   text-align: center;
+  padding-bottom: 230px;
 }
-.gUHjHS div {
+
+.gUHjHS_title{
   font-size: 80px;
 }
+
 /**
 * Check out variables.css for easy customization of colors, typography, and other repetitive properties
 */
